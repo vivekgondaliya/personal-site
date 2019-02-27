@@ -1,0 +1,41 @@
+**Favicon - favicon.cc
+
+**
+Resume
+Colorhunt.co
+
+**
+The box model
+[CAUTION] padding: 
+    incerease the total size of the element
+    adds paading to content but not the image or backgorund Color
+    editing box model in chrome dev tool
+
+**
+display: inline-block
+position: relative
+leaves empty space
+
+position: absolute
+out of the flow of the dom, no space left
+
+
+**
+Dark Arts of Centering Elments with CSS
+text-align: center; works with inline-block(imgs) and block(h1, p)
+But, if you change block elements with width property defined then text-align does not work. Then, we have to use margin: 0 auto; ie horizontal center align
+
+
+
+**
+font-family
+sans, san-serif, monospace
+cssfontstack - font web safe percentage - gives you font-family prop with fallback, click and paste
+fonts.google.com - free font embedding
+
+https://www.flaticon.com/
+
+
+**
+16px = 100%(inherited) = 1em(inherited) = 1rem
+40px = ?rem
